@@ -17,3 +17,5 @@ prediction = model.predict([[6]])
 # Display the result
 print("Study hours: 6")
 print("Predicted marks:", prediction[0])
+
+print("model trained successfully!!!")
