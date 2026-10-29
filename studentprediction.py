@@ -19,3 +19,4 @@ print("Study hours: 6")
 print("Predicted marks:", prediction[0])
 
 print("model trained successfully!!!")
+print("running experimentl model")
